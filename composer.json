@@ -16,7 +16,7 @@
     "require": {
         "dusterio/lumen-passport": "^0.2.15",
         "laravel/lumen-framework": "^6.0",
-        "vinkla/hashids": "^5.0",
+        "vinkla/hashids": "^6.0",
         "doctrine/dbal": "^2.6"
     },
     "require-dev": {
