@@ -1,5 +1,5 @@
 {
-    "name": "manchidede/hashed-passport",
+    "name": "manchidede/hashed-passport-for-dusterio-lumen-passport",
     "description": "Transforms Laravel Passport's default incrementing integer client_id into an industry standard unique hashed string. Optionally, you can use encrypted client secrets for improved security. The package is non-intrusive. See the readme for details.",
     "type": "library",
     "license": "MIT",
